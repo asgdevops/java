@@ -5,7 +5,7 @@ This repository contains a notes about Java programming.
 Most of them are practice projects comming from the course _"The complete Java Developer Course: From Beginner to Master"_ by Rob Percival and John P. Baugh.
 
 # Table of contents
-- [Installing intelliJ](00_intelliJ/intelliJ.md)
+- [Installing intelliJ on Ubuntu 22.04](00_intelliJ/intelliJ.md)
 - [Data types](01_Data_Types/data_types.md)
 - [Comments](02_Comments/comments.md)
 - [Arithmetic Operators](03_Arithmetic_Operators/arithmetic_operators.md)
