@@ -9,6 +9,7 @@ Most of them are practice projects comming from the course _"The complete Java D
 - [Data types](01_Data_Types/data_types.md)
 - [Comments](02_Comments/comments.md)
 - [Arithmetic Operators](03_Arithmetic_Operators/arithmetic_operators.md)
+- [Relational Operators](04_Relational_Operators/relational_operators.md)
 
 # References
 Percival, R., & Baugh, J. P. (2021). _The Complete Java Developer Course: From Beginner to Master._ Packt Publishing. [https://learning.oreilly.com/videos/the-complete-java/9781801075190/](https://learning.oreilly.com/videos/the-complete-java/9781801075190/)
